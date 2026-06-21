@@ -1,0 +1,11 @@
+﻿  Lab04.cpp
+C:\Users\bubba\prante_jaden_cst_211\Lab04\Lab04\Lab04.cpp(92,7): warning C4101: 'tests_passed': unreferenced local variable
+C:\Users\bubba\prante_jaden_cst_211\Lab04\Lab04\Lab04.cpp(117,20): warning C4101: 'exception': unreferenced local variable
+C:\Users\bubba\prante_jaden_cst_211\Lab04\Lab04\Lab04.cpp(132,20): warning C4101: 'exception': unreferenced local variable
+C:\Users\bubba\prante_jaden_cst_211\Lab04\Lab04\Lab04.cpp(147,20): warning C4101: 'exception': unreferenced local variable
+C:\Users\bubba\prante_jaden_cst_211\Lab04\Lab04\Lab04.cpp(162,20): warning C4101: 'exception': unreferenced local variable
+C:\Users\bubba\prante_jaden_cst_211\Lab04\Lab04\Lab04.cpp(456,20): warning C4101: 'exception': unreferenced local variable
+C:\Users\bubba\prante_jaden_cst_211\Lab04\Lab04\Lab04.cpp(471,20): warning C4101: 'exception': unreferenced local variable
+C:\Users\bubba\prante_jaden_cst_211\Lab04\Lab04\Lab04.cpp(486,20): warning C4101: 'exception': unreferenced local variable
+C:\Users\bubba\prante_jaden_cst_211\Lab04\Lab04\Lab04.cpp(501,20): warning C4101: 'exception': unreferenced local variable
+  Lab04.vcxproj -> C:\Users\bubba\prante_jaden_cst_211\Lab04\x64\Debug\Lab04.exe
