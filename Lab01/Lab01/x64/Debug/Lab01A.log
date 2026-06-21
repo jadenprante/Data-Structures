@@ -1,0 +1,94 @@
+﻿  Exception.cpp
+C:\Users\bubba\prante_jaden_cst_211\Lab01\Lab01\Exception.h(44,11): error C2804: binary 'operator <<' has too many parameters
+C:\Users\bubba\prante_jaden_cst_211\Lab01\Lab01\Exception.cpp(31,3): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\bubba\prante_jaden_cst_211\Lab01\Lab01\Exception.cpp(41,27): error C2065: 'msg': undeclared identifier
+C:\Users\bubba\prante_jaden_cst_211\Lab01\Lab01\Exception.cpp(41,11): error C3078: array size must be specified in new expressions without an initializer
+C:\Users\bubba\prante_jaden_cst_211\Lab01\Lab01\Exception.cpp(42,23): error C2039: 'msg': is not a member of 'Exception'
+C:\Users\bubba\prante_jaden_cst_211\Lab01\Lab01\Exception.h(31,7): message : see declaration of 'Exception'
+C:\Users\bubba\prante_jaden_cst_211\Lab01\Lab01\Exception.cpp(42,3): error C2660: 'strcpy': function does not take 1 arguments
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\string.h(130,1): message : see declaration of 'strcpy'
+C:\Users\bubba\prante_jaden_cst_211\Lab01\Lab01\Exception.cpp(42,3): message : while trying to match the argument list '(char *)'
+C:\Users\bubba\prante_jaden_cst_211\Lab01\Lab01\Exception.cpp(52,1): error C2143: syntax error: missing ';' before '}'
+C:\Users\bubba\prante_jaden_cst_211\Lab01\Lab01\Exception.cpp(60,4): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\bubba\prante_jaden_cst_211\Lab01\Lab01\Exception.cpp(89,3): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Lab01.cpp
+C:\Users\bubba\prante_jaden_cst_211\Lab01\Lab01A\Exception.h(42,9): error C2143: syntax error: missing ';' before '&'
+C:\Users\bubba\prante_jaden_cst_211\Lab01\Lab01A\Exception.h(42,9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\bubba\prante_jaden_cst_211\Lab01\Lab01A\Exception.h(42,65): error C2238: unexpected token(s) preceding ';'
+C:\Users\bubba\prante_jaden_cst_211\Lab01\Lab01A\Lab01.cpp(109,11): error C2039: 'SetLength': is not a member of 'Array<int>'
+C:\Users\bubba\prante_jaden_cst_211\Lab01\Lab01A\Lab01.cpp(106,2): message : see declaration of 'Array<int>'
+C:\Users\bubba\prante_jaden_cst_211\Lab01\Lab01A\Lab01.cpp(154,14): error C2039: 'GetLength': is not a member of 'Array<int>'
+C:\Users\bubba\prante_jaden_cst_211\Lab01\Lab01A\Lab01.cpp(106,2): message : see declaration of 'Array<int>'
+C:\Users\bubba\prante_jaden_cst_211\Lab01\Lab01A\Lab01.cpp(156,14): error C2039: 'GetStartIndex': is not a member of 'Array<int>'
+C:\Users\bubba\prante_jaden_cst_211\Lab01\Lab01A\Lab01.cpp(106,2): message : see declaration of 'Array<int>'
+C:\Users\bubba\prante_jaden_cst_211\Lab01\Lab01A\Lab01.cpp(159,6): error C2084: function 'bool test_lower_bounds(void)' already has a body
+C:\Users\bubba\prante_jaden_cst_211\Lab01\Lab01A\Lab01.cpp(118,6): message : see previous definition of 'test_lower_bounds'
+C:\Users\bubba\prante_jaden_cst_211\Lab01\Lab01A\Lab01.cpp(174,6): error C2084: function 'bool test_upper_bounds(void)' already has a body
+C:\Users\bubba\prante_jaden_cst_211\Lab01\Lab01A\Lab01.cpp(133,6): message : see previous definition of 'test_upper_bounds'
+C:\Users\bubba\prante_jaden_cst_211\Lab01\Lab01A\Lab01.cpp(189,6): error C2084: function 'bool test_2_arg_ctor(void)' already has a body
+C:\Users\bubba\prante_jaden_cst_211\Lab01\Lab01A\Lab01.cpp(148,6): message : see previous definition of 'test_2_arg_ctor'
+C:\Users\bubba\prante_jaden_cst_211\Lab01\Lab01A\Lab01.cpp(195,14): error C2039: 'GetLength': is not a member of 'Array<int>'
+C:\Users\bubba\prante_jaden_cst_211\Lab01\Lab01A\Lab01.cpp(106,2): message : see declaration of 'Array<int>'
+C:\Users\bubba\prante_jaden_cst_211\Lab01\Lab01A\Lab01.cpp(197,14): error C2039: 'GetStartIndex': is not a member of 'Array<int>'
+C:\Users\bubba\prante_jaden_cst_211\Lab01\Lab01A\Lab01.cpp(106,2): message : see declaration of 'Array<int>'
+C:\Users\bubba\prante_jaden_cst_211\Lab01\Lab01A\Lab01.cpp(208,14): error C2039: 'GetLength': is not a member of 'Array<int>'
+C:\Users\bubba\prante_jaden_cst_211\Lab01\Lab01A\Lab01.cpp(106,2): message : see declaration of 'Array<int>'
+C:\Users\bubba\prante_jaden_cst_211\Lab01\Lab01A\Lab01.cpp(210,14): error C2039: 'GetStartIndex': is not a member of 'Array<int>'
+C:\Users\bubba\prante_jaden_cst_211\Lab01\Lab01A\Lab01.cpp(106,2): message : see declaration of 'Array<int>'
+C:\Users\bubba\prante_jaden_cst_211\Lab01\Lab01A\Lab01.cpp(221,14): error C2039: 'GetLength': is not a member of 'Array<int>'
+C:\Users\bubba\prante_jaden_cst_211\Lab01\Lab01A\Lab01.cpp(106,2): message : see declaration of 'Array<int>'
+C:\Users\bubba\prante_jaden_cst_211\Lab01\Lab01A\Lab01.cpp(223,14): error C2039: 'GetStartIndex': is not a member of 'Array<int>'
+C:\Users\bubba\prante_jaden_cst_211\Lab01\Lab01A\Lab01.cpp(106,2): message : see declaration of 'Array<int>'
+C:\Users\bubba\prante_jaden_cst_211\Lab01\Lab01A\Lab01.cpp(233,10): error C2039: 'SetStartIndex': is not a member of 'Array<int>'
+C:\Users\bubba\prante_jaden_cst_211\Lab01\Lab01A\Lab01.cpp(106,2): message : see declaration of 'Array<int>'
+C:\Users\bubba\prante_jaden_cst_211\Lab01\Lab01A\Lab01.cpp(234,14): error C2039: 'GetStartIndex': is not a member of 'Array<int>'
+C:\Users\bubba\prante_jaden_cst_211\Lab01\Lab01A\Lab01.cpp(106,2): message : see declaration of 'Array<int>'
+C:\Users\bubba\prante_jaden_cst_211\Lab01\Lab01A\Lab01.cpp(244,10): error C2039: 'SetStartIndex': is not a member of 'Array<int>'
+C:\Users\bubba\prante_jaden_cst_211\Lab01\Lab01A\Lab01.cpp(106,2): message : see declaration of 'Array<int>'
+C:\Users\bubba\prante_jaden_cst_211\Lab01\Lab01A\Lab01.cpp(245,14): error C2039: 'GetStartIndex': is not a member of 'Array<int>'
+C:\Users\bubba\prante_jaden_cst_211\Lab01\Lab01A\Lab01.cpp(106,2): message : see declaration of 'Array<int>'
+C:\Users\bubba\prante_jaden_cst_211\Lab01\Lab01A\Lab01.cpp(278,10): error C2039: 'SetLength': is not a member of 'Array<int>'
+C:\Users\bubba\prante_jaden_cst_211\Lab01\Lab01A\Lab01.cpp(106,2): message : see declaration of 'Array<int>'
+C:\Users\bubba\prante_jaden_cst_211\Lab01\Lab01A\Lab01.cpp(306,10): error C2039: 'SetLength': is not a member of 'Array<int>'
+C:\Users\bubba\prante_jaden_cst_211\Lab01\Lab01A\Lab01.cpp(106,2): message : see declaration of 'Array<int>'
+C:\Users\bubba\prante_jaden_cst_211\Lab01\Lab01A\Lab01.cpp(327,10): error C2039: 'SetStartIndex': is not a member of 'Array<int>'
+C:\Users\bubba\prante_jaden_cst_211\Lab01\Lab01A\Lab01.cpp(106,2): message : see declaration of 'Array<int>'
+C:\Users\bubba\prante_jaden_cst_211\Lab01\Lab01A\Lab01.cpp(385,11): error C2039: 'SetLength': is not a member of 'Array<std::string>'
+C:\Users\bubba\prante_jaden_cst_211\Lab01\Lab01A\Lab01.cpp(382,2): message : see declaration of 'Array<std::string>'
+C:\Users\bubba\prante_jaden_cst_211\Lab01\Lab01A\Lab01.cpp(398,2): error C2317: 'try' block starting on line '398' has no catch handlers
+C:\Users\bubba\prante_jaden_cst_211\Lab01\Lab01A\Lab01.cpp(403,13): error C2371: 'val_len': redefinition; different basic types
+C:\Users\bubba\prante_jaden_cst_211\Lab01\Lab01A\Lab01.cpp(397,16): message : see declaration of 'val_len'
+C:\Users\bubba\prante_jaden_cst_211\Lab01\Lab01A\Lab01.cpp(405,12): error C2088: '[': illegal for class
+C:\Users\bubba\prante_jaden_cst_211\Lab01\Lab01A\Lab01.cpp(420,6): error C2084: function 'bool test_neg_length_complex(void)' already has a body
+C:\Users\bubba\prante_jaden_cst_211\Lab01\Lab01A\Lab01.cpp(378,6): message : see previous definition of 'test_neg_length_complex'
+C:\Users\bubba\prante_jaden_cst_211\Lab01\Lab01A\Lab01.cpp(427,11): error C2039: 'SetLength': is not a member of 'Array<std::string>'
+C:\Users\bubba\prante_jaden_cst_211\Lab01\Lab01A\Lab01.cpp(382,2): message : see declaration of 'Array<std::string>'
+C:\Users\bubba\prante_jaden_cst_211\Lab01\Lab01A\Lab01.cpp(436,6): error C2084: function 'bool test_lower_bounds_complex(void)' already has a body
+C:\Users\bubba\prante_jaden_cst_211\Lab01\Lab01A\Lab01.cpp(394,6): message : see previous definition of 'test_lower_bounds_complex'
+C:\Users\bubba\prante_jaden_cst_211\Lab01\Lab01A\Lab01.cpp(472,14): error C2039: 'GetLength': is not a member of 'Array<std::string>'
+C:\Users\bubba\prante_jaden_cst_211\Lab01\Lab01A\Lab01.cpp(382,2): message : see declaration of 'Array<std::string>'
+C:\Users\bubba\prante_jaden_cst_211\Lab01\Lab01A\Lab01.cpp(474,14): error C2039: 'GetStartIndex': is not a member of 'Array<std::string>'
+C:\Users\bubba\prante_jaden_cst_211\Lab01\Lab01A\Lab01.cpp(382,2): message : see declaration of 'Array<std::string>'
+C:\Users\bubba\prante_jaden_cst_211\Lab01\Lab01A\Lab01.cpp(485,14): error C2039: 'GetLength': is not a member of 'Array<std::string>'
+C:\Users\bubba\prante_jaden_cst_211\Lab01\Lab01A\Lab01.cpp(382,2): message : see declaration of 'Array<std::string>'
+C:\Users\bubba\prante_jaden_cst_211\Lab01\Lab01A\Lab01.cpp(487,14): error C2039: 'GetStartIndex': is not a member of 'Array<std::string>'
+C:\Users\bubba\prante_jaden_cst_211\Lab01\Lab01A\Lab01.cpp(382,2): message : see declaration of 'Array<std::string>'
+C:\Users\bubba\prante_jaden_cst_211\Lab01\Lab01A\Lab01.cpp(498,14): error C2039: 'GetLength': is not a member of 'Array<std::string>'
+C:\Users\bubba\prante_jaden_cst_211\Lab01\Lab01A\Lab01.cpp(382,2): message : see declaration of 'Array<std::string>'
+C:\Users\bubba\prante_jaden_cst_211\Lab01\Lab01A\Lab01.cpp(500,14): error C2039: 'GetStartIndex': is not a member of 'Array<std::string>'
+C:\Users\bubba\prante_jaden_cst_211\Lab01\Lab01A\Lab01.cpp(382,2): message : see declaration of 'Array<std::string>'
+C:\Users\bubba\prante_jaden_cst_211\Lab01\Lab01A\Lab01.cpp(510,10): error C2039: 'SetStartIndex': is not a member of 'Array<std::string>'
+C:\Users\bubba\prante_jaden_cst_211\Lab01\Lab01A\Lab01.cpp(382,2): message : see declaration of 'Array<std::string>'
+C:\Users\bubba\prante_jaden_cst_211\Lab01\Lab01A\Lab01.cpp(511,14): error C2039: 'GetStartIndex': is not a member of 'Array<std::string>'
+C:\Users\bubba\prante_jaden_cst_211\Lab01\Lab01A\Lab01.cpp(382,2): message : see declaration of 'Array<std::string>'
+C:\Users\bubba\prante_jaden_cst_211\Lab01\Lab01A\Lab01.cpp(521,10): error C2039: 'SetStartIndex': is not a member of 'Array<std::string>'
+C:\Users\bubba\prante_jaden_cst_211\Lab01\Lab01A\Lab01.cpp(382,2): message : see declaration of 'Array<std::string>'
+C:\Users\bubba\prante_jaden_cst_211\Lab01\Lab01A\Lab01.cpp(522,14): error C2039: 'GetStartIndex': is not a member of 'Array<std::string>'
+C:\Users\bubba\prante_jaden_cst_211\Lab01\Lab01A\Lab01.cpp(382,2): message : see declaration of 'Array<std::string>'
+C:\Users\bubba\prante_jaden_cst_211\Lab01\Lab01A\Lab01.cpp(551,10): error C2039: 'SetLength': is not a member of 'Array<std::string>'
+C:\Users\bubba\prante_jaden_cst_211\Lab01\Lab01A\Lab01.cpp(382,2): message : see declaration of 'Array<std::string>'
+C:\Users\bubba\prante_jaden_cst_211\Lab01\Lab01A\Lab01.cpp(577,10): error C2039: 'SetLength': is not a member of 'Array<std::string>'
+C:\Users\bubba\prante_jaden_cst_211\Lab01\Lab01A\Lab01.cpp(382,2): message : see declaration of 'Array<std::string>'
+C:\Users\bubba\prante_jaden_cst_211\Lab01\Lab01A\Lab01.cpp(596,10): error C2039: 'SetStartIndex': is not a member of 'Array<std::string>'
+C:\Users\bubba\prante_jaden_cst_211\Lab01\Lab01A\Lab01.cpp(382,2): message : see declaration of 'Array<std::string>'
+  Generating Code...
