@@ -1,0 +1,132 @@
+Bubble Sort Brute Force (vector) took 1.251 seconds.
+1 806 1643 2442 3431 4527 5587 6666 7697 8864 
+
+
+Bubble Sort Brute Force (array) took 0.985 seconds.
+1 806 1643 2442 3431 4527 5587 6666 7697 8864 
+
+
+Bubble Sort Brute Force (native) took 0.209 seconds.
+1 806 1643 2442 3431 4527 5587 6666 7697 8864 
+
+
+Bubble Sort Flagged (vector) took 0.683 seconds.
+1 806 1643 2442 3431 4527 5587 6666 7697 8864 
+
+
+Bubble Sort Flagged (array) took 0.636 seconds.
+1 806 1643 2442 3431 4527 5587 6666 7697 8864 
+
+
+Bubble Sort Flagged (native) took 0.153 seconds.
+1 806 1643 2442 3431 4527 5587 6666 7697 8864 
+
+
+Selection Sort (vector) took 0.286 seconds.
+1 806 1643 2442 3431 4527 5587 6666 7697 8864 
+
+
+Selection Sort (array) took 0.252 seconds.
+1 806 1643 2442 3431 4527 5587 6666 7697 8864 
+
+
+Selection Sort (native) took 0.037 seconds.
+1 806 1643 2442 3431 4527 5587 6666 7697 8864 
+
+
+Insertion Sort (vector) took 0.213 seconds.
+1 806 1643 2442 3431 4527 5587 6666 7697 8864 
+
+
+Insertion Sort (array) took 0.259 seconds.
+1 806 1643 2442 3431 4527 5587 6666 7697 8864 
+
+
+Insertion Sort (native) took 0.025 seconds.
+1 806 1643 2442 3431 4527 5587 6666 7697 8864 
+
+
+Shell Sort (vector) took 0.003 seconds.
+1 806 1643 2442 3431 4527 5587 6666 7697 8864 
+
+
+Shell Sort (array) took 0.003 seconds.
+1 806 1643 2442 3431 4527 5587 6666 7697 8864 
+
+
+Shell Sort (native) took 0.001 seconds.
+1 806 1643 2442 3431 4527 5587 6666 7697 8864 
+
+
+Heap Sort (vector) took 0.003 seconds.
+1 806 1643 2442 3431 4527 5587 6666 7697 8864 
+
+
+Heap Sort (array) took 0.003 seconds.
+1 806 1643 2442 3431 4527 5587 6666 7697 8864 
+
+
+Heap Sort (native) took 0.001 seconds.
+1 806 1643 2442 3431 4527 5587 6666 7697 8864 
+
+
+Merge Sort (vector) took 0.024 seconds.
+1 806 1643 2442 3431 4527 5587 6666 7697 8864 
+
+
+Merge Sort (array) took 0.005 seconds.
+1 806 1643 2442 3431 4527 5587 6666 7697 8864 
+
+
+Merge Sort (native) took 0 seconds.
+1 806 1643 2442 3431 4527 5587 6666 7697 8864 
+
+
+Quick Sort (vector) took 0.001 seconds.
+1 806 1643 2442 3431 4527 5587 6666 7697 8864 
+
+
+Quick Sort (array) took 0.002 seconds.
+1 806 1643 2442 3431 4527 5587 6666 7697 8864 
+
+
+Quick Sort (native) took 0 seconds.
+1 806 1643 2442 3431 4527 5587 6666 7697 8864 
+
+
+Radix Sort (vector) took 0 seconds.
+1 806 1643 2442 3431 4527 5587 6666 7697 8864 
+
+
+Radix Sort (array) took 0 seconds.
+1 806 1643 2442 3431 4527 5587 6666 7697 8864 
+
+
+Radix Sort (native) took 0 seconds.
+1 806 1643 2442 3431 4527 5587 6666 7697 8864 
+
+
+Shaker Sort (vector) took 0.517 seconds.
+1 806 1643 2442 3431 4527 5587 6666 7697 8864 
+
+
+Shaker Sort (array) took 0.575 seconds.
+1 806 1643 2442 3431 4527 5587 6666 7697 8864 
+
+
+Shaker Sort (native) took 0.135 seconds.
+1 806 1643 2442 3431 4527 5587 6666 7697 8864 
+
+
+Iterative Quick Sort (vector) took 0.003 seconds.
+1 806 1643 2442 3431 4527 5587 6666 7697 8864 
+
+
+Iterative Quick Sort (array) took 0.004 seconds.
+1 806 1643 2442 3431 4527 5587 6666 7697 8864 
+
+
+Iterative Quick Sort (native) took 0.002 seconds.
+1 806 1643 2442 3431 4527 5587 6666 7697 8864 
+
+

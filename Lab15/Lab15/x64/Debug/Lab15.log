@@ -1,0 +1,29 @@
+﻿  Exception.cpp
+  Lab15.cpp
+C:\Users\bubba\prante_jaden_cst_211\Lab15\Lab15\Lab15.cpp(248,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\bubba\prante_jaden_cst_211\Lab15\Lab15\Lab15.cpp(441,42): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\bubba\prante_jaden_cst_211\Lab15\Lab15\Lab15.cpp(755,29): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\bubba\prante_jaden_cst_211\Lab15\Lab15\Lab15.cpp(797,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\bubba\prante_jaden_cst_211\Lab15\Lab15\Lab15.cpp(801,34): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\bubba\prante_jaden_cst_211\Lab15\Lab15\Lab15.cpp(912,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\bubba\prante_jaden_cst_211\Lab15\Lab15\Lab15.cpp(1189,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\utility(274,54): warning C4267: 'initializing': conversion from 'size_t' to '_Ty2', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\utility(274,54): warning C4267:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\utility(274,54): warning C4267:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\utility(274,54): warning C4267:             _Ty2=int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\utility(274,54): warning C4267:         ]
+  (compiling source file 'Lab15.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\utility(274,54):
+      the template instantiation context (the oldest one first) is
+          C:\Users\bubba\prante_jaden_cst_211\Lab15\Lab15\Lab15.cpp(1365,14):
+          see reference to function template instantiation 'std::pair<int,int>::pair<int,unsigned __int64,0>(_Other1 &&,_Other2 &&) noexcept' being compiled
+          with
+          [
+              _Other1=int,
+              _Other2=unsigned __int64
+          ]
+              C:\Users\bubba\prante_jaden_cst_211\Lab15\Lab15\Lab15.cpp(1365,13):
+              see the first reference to 'std::pair<int,int>::pair' in 'QuickSortIterativeVector'
+  
+  Generating Code...
+  Lab15.vcxproj -> C:\Users\bubba\prante_jaden_cst_211\Lab15\x64\Debug\Lab15.exe

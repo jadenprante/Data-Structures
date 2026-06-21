@@ -1,0 +1,41 @@
+﻿  Lab14.cpp
+C:\Users\bubba\prante_jaden_cst_211\Lab14\Lab14\Graph.h(35,13): warning C4081: expected 'newline'; found ';'
+  (compiling source file 'Lab14.cpp')
+  
+C:\Users\bubba\prante_jaden_cst_211\Lab14\Lab14\Lab14.cpp(277,41): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\bubba\prante_jaden_cst_211\Lab14\Lab14\Lab14.cpp(286,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\bubba\prante_jaden_cst_211\Lab14\Lab14\Graph.h(260,14): error C2248: 'Vertex<V,E>::edges': cannot access private member declared in class 'Vertex<V,E>'
+C:\Users\bubba\prante_jaden_cst_211\Lab14\Lab14\Graph.h(260,14): error C2248:         with
+C:\Users\bubba\prante_jaden_cst_211\Lab14\Lab14\Graph.h(260,14): error C2248:         [
+C:\Users\bubba\prante_jaden_cst_211\Lab14\Lab14\Graph.h(260,14): error C2248:             V=std::string,
+C:\Users\bubba\prante_jaden_cst_211\Lab14\Lab14\Graph.h(260,14): error C2248:             E=std::string
+C:\Users\bubba\prante_jaden_cst_211\Lab14\Lab14\Graph.h(260,14): error C2248:         ]
+  (compiling source file 'Lab14.cpp')
+      C:\Users\bubba\prante_jaden_cst_211\Lab14\Lab14\Vertex.h(52,22):
+      see declaration of 'Vertex<V,E>::edges'
+          with
+          [
+              V=std::string,
+              E=std::string
+          ]
+      C:\Users\bubba\prante_jaden_cst_211\Lab14\Lab14\Vertex.h(34,7):
+      see declaration of 'Vertex<V,E>'
+          with
+          [
+              V=std::string,
+              E=std::string
+          ]
+      C:\Users\bubba\prante_jaden_cst_211\Lab14\Lab14\Graph.h(260,14):
+      the template instantiation context (the oldest one first) is
+          C:\Users\bubba\prante_jaden_cst_211\Lab14\Lab14\Lab14.cpp(50,27):
+          see reference to class template instantiation 'Graph<std::string,std::string>' being compiled
+          C:\Users\bubba\prante_jaden_cst_211\Lab14\Lab14\Graph.h(255,1):
+          while compiling class template member function 'void Graph<std::string,std::string>::InsertEdge(V,V,E,int)'
+          with
+          [
+              V=std::string,
+              E=std::string
+          ]
+              C:\Users\bubba\prante_jaden_cst_211\Lab14\Lab14\Lab14.cpp(123,25):
+              see the first reference to 'Graph<std::string,std::string>::InsertEdge' in 'DataInput'
+  
